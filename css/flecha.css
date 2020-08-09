@@ -1,0 +1,17 @@
+#paginacion {
+  padding: .10em;
+  overflow: hidden;
+}
+
+
+.icon-arrow-right   { 
+	float: right; 
+	margin-right: 80px; 
+	color: #ff8000;
+}
+
+.icon-arrow-left  { 
+	float: left;  
+	margin-left: 80px; 
+	color: #ff8000;
+}

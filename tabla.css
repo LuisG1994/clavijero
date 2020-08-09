@@ -1,0 +1,58 @@
+
+h3{
+	color: white;
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+}
+
+body{
+
+	background-color: wheat;
+	font-size: 30px;
+}
+
+#main-container {
+margin: 150px auto;
+width: 600px;
+}
+
+table{
+	background-color: sandybrown;
+	text-align: left;
+	border-collapse: collapse;
+	font-family: "Courier";
+	font-size: 18px;
+	
+}
+th,td {
+	padding: 20px;
+}
+
+thead{
+	background-color: orange;
+	font-family: "Times New Roman";
+	border-bottom: solid 5px white;
+	color: white;
+	font-size: 20px;
+	text-shadow: 1px 1px 1px #000;
+
+	
+}
+
+tr:nth-child(even){
+	background-color: navajowhite;
+}
+tr:hover td{
+	background-color: khaki;
+	color: black;
+}
+
+nav{
+	background-color:sienna;
+	font-size: 22px;
+	color: white;
+}
+

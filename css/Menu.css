@@ -1,0 +1,47 @@
+h4{
+	color: black;
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+}
+
+
+h3{
+
+	color: white;
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+}
+
+p{
+font-size: 20px;
+font-family: "Arial Narrow";
+}
+
+body{
+
+	background-color: wheat;
+	font-size: 30px;
+}
+#main-container {
+margin: 150px auto;
+width: 600px;
+}
+
+
+
+nav{
+	background-color:sienna;
+	color: white;
+
+}
+
+a{
+	font-size: 10px;
+}
+

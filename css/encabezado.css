@@ -1,0 +1,50 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+/*Estilos Generales*/
+
+.button {
+	background: #7f8c8d;
+	color: #fff;
+	display: inline-block;
+	font-size: 0.8em;
+	margin: 5px;
+	padding: 3px 0px;
+	text-align: center;
+	width: 190px;
+	text-decoration: none;
+	box-shadow: 0px 2px 0px #373c3c;
+}
+
+.button span{
+	margin-right: 5px;
+}
+
+/*Colores*/
+.button.orange{
+	background: #F79F1F;
+	box-shadow: 0px 3px 0px #FFC312;
+}
+
+/*Efectos*/
+.button.radius{
+	border-radius: 50px;
+}
+
+.button:hover{
+	box-shadow: 0px 0px 0px;
+	padding-top: 7px;
+}
+
+nav{
+	background-color:sienna;
+	font-size: 22px;
+	color: white;
+}
+
+h1{
+	font-size: 15px;
+}

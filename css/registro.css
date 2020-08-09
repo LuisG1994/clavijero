@@ -1,0 +1,50 @@
+
+h3{
+	color: white;
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+}
+
+h5{
+	color: black;
+	font-family: "Times New Roman";
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-shadow: 1px 1px 1px #000;
+}
+
+
+
+label{
+
+	color: black;
+	font-family: "Arial";
+	text-align: center;
+	font-size: 18px;
+	font-weight: bold;
+	
+}
+
+body{
+
+	background-color: wheat;
+	font-size: 30px;
+}
+#main-container {
+margin: 150px auto;
+width: 600px;
+}
+
+
+
+nav{
+	background-color:sienna;
+	font-size: 15px;
+	color: white;
+}
+
